@@ -1,0 +1,28 @@
+{
+    "id":"ymfah_shipsonastick", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"Ships on a Stick", # Displayed to the player
+	"author":"ymfah",
+    "utility":"false",
+	"version":"0.1.0",
+	"description":"Ships mounted on a stick!",
+    "gameVersion": "0.96a-RC10", 
+  	"jars":["jars/ShipsOnAStick.jar"],
+  	"modPlugin":"SOAS.ShipsOnAStick",
+	  	"dependencies": [
+        {
+          "id": "lw_lazylib",
+          "name": "LazyLib",
+          "version": "2.7b"
+        },
+        #{
+        #    "id": "MagicLib",
+        #    "name": "MagicLib",
+        #    #"version": "0.34"
+        #},
+        #{
+        #    "id": "shaderLib",
+        #    "name": "GraphicsLib",
+        #    #"version": "1.5.1"
+        #}
+    ],
+}

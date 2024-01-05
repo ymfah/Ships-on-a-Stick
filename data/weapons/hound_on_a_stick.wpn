@@ -1,0 +1,42 @@
+{
+  "id": "hound_on_a_stick",
+  "specClass": "projectile",
+  "projectileSpecId": "chaingun_shot",
+  "type": "UNIVERSAL",
+  "size": "LARGE",
+  "turretSprite": "graphics/weapons/rotary/hound_on_a_stick_base00.png",
+  "hardpointSprite": "graphics/weapons/rotary/hound_on_a_stick_base00.png",
+  "turretOffsets": [
+    40,
+    -7
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    64,
+    -7
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "LINKED",
+  "animationType": "MUZZLE_FLASH",
+  "numFrames": 4,
+  "frameRate": 20,
+  "muzzleFlashSpec": {
+    "length": 35,
+    "spread": 5,
+    "particleSizeMin": 6,
+    "particleSizeRange": 14,
+    "particleDuration": 0.15,
+    "particleCount": 11,
+    "particleColor": [
+      255,
+      240,
+      165,
+      200
+    ]
+  },
+  "fireSoundTwo": "chaingun_fire"
+}

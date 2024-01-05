@@ -1,0 +1,23 @@
+{
+	"id":"reaper_on_a_stick",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"mountTypeOverride":"UNIVERSAL",
+	"size":"SMALL",
+	"turretSprite":"",
+	"hardpointSprite":"",
+	"everyFrameEffect":"data.weapons.ReaperOnAStickEveryframe",
+	"hardpointOffsets":[165, 0],
+	"turretOffsets":[165, 0],
+	"hardpointAngleOffsets":[0],
+	"turretAngleOffsets":[0],
+	"barrelMode":"LINKED",
+	"renderHints":[RENDER_LOADED_MISSILES],
+	"interruptibleBurst":false,
+	"displayArcRadius":210,
+	"animationType":"NONE",
+	"projectileSpecId":"reaper_on_a_stick_shot",
+	"fireSoundTwo":"reaper_fire",
+}
+
+

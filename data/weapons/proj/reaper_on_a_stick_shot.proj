@@ -1,0 +1,39 @@
+{
+	"id":"reaper_on_a_stick_shot",
+	"specClass":"missile",	
+	"missileType":"BOMB",
+	"sprite":"graphics/weapons/ymfah_reaper_on_a_stick.png",
+	"size":[10,175],	
+	"center":[5,165],
+	"collisionRadius":20,
+	"collisionClass":"MISSILE_FF",
+	"explosionColor":[255,100,100,255],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":350, # purely visual
+	"explosionSpec":{"duration":0.1f, # not visual
+					 "radius":175,
+					 "coreRadius":75, # full damage within core radius
+					 "collisionClass":HITS_SHIPS_AND_ASTEROIDS,
+					 "collisionClassByFighter":HITS_SHIPS_AND_ASTEROIDS,
+					 "particleSizeMin":5.0,
+					 "particleSizeRange":3.0,
+					 "particleDuration":1,
+					 "particleCount":200,
+					 "particleColor":[255,155,155,255],
+					 "explosionColor":[255,100,100,255],
+					 "detailedExplosionFlashColorFringe":[255,100,100,255],
+					 "detailedExplosionFlashRadius":500,
+					 "useDetailedExplosion":true
+					 },
+	"flameoutTime":0.005,  # total time from flameout to full fadeout
+	"fadeTime":0.5, # fadeout duration
+	"engineSpec":{
+				"maxSpeed":0,
+				"turnAcc":0,
+				"turnRate":0,
+				"acc":0,
+				"dec":0},
+	"engineSlots":[ ],
+
+				    
+				
+}

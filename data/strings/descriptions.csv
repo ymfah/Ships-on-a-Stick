@@ -1,0 +1,28 @@
+id,type,text1,text2,text3,text4,notes
+omen_on_a_stick,WEAPON,"An irreparably damaged Omen. Many would consider such a vessel as mere scrap, but venturing pirates have promptly put it back into service. Once activated externally by an unlucky crew, the system will continuously fire an EMP arc at any nearby targets. If no target is in range, the close proximity means that the next likely target is the connecting vessel.",,,,
+engine_on_a_stick,WEAPON,A maneuvering thruster from a Kite. Provides a slight top speed and maneuverability bonus as long as the thruster is facing the right direction.,,,,
+reaper_on_a_stick,WEAPON,"An irreparably damaged Reaper-class Torpedo. Maybe the arming delay caused this particular torpedo to bounce off. Maybe it missed entirely. There will be no such mistakes this time.
+
+This simple retrofit forgoes any sort of delivery system. The shaft ensures perfect accuracy and minimum safe distance. Mounting is used for load bearing purpose and thus universal.",,,,
+hound_on_a_stick,WEAPON,"An attempt at replicating the efficiency of a TPC. An irreparably damaged Luddic Path Hound is used as a generator.
+
+The GA-X Industries Mk. II chaingun excels at close-range fighting, where accuracy is less important than overall damage and volume of fire.
+
+A 'melee' captain's favorite tool, the Assault Chaingun delivers high-explosive shaped charge rounds on target at nearly 400 shells per minute. Features electrically driven feed and ejector systems and an advanced nano cooling unit built right into the barrel.",,,,
+warden_on_a_stick,WEAPON,"An attempt at replicating the efficiency of a TPC. A derelict Warden is used as a generator and a modular ammo feeding mechanism. The jamming-prone mechanism coupled with the subpar generator means that the impressive firepower can only be maintained for a short while.
+
+The GA-X Industries Mk. II chaingun excels at close-range fighting, where accuracy is less important than overall damage and volume of fire.
+
+A 'melee' captain's favorite tool, the Assault Chaingun delivers high-explosive shaped charge rounds on target at nearly 400 shells per minute. Features electrically driven feed and ejector systems and an advanced nano cooling unit built right into the barrel.",,,,
+onslaught_on_a_stick,WEAPON,"Since the TPC is built directly into the Onslaught's hull, a small part of the hull is used.
+
+A bulky energy weapon from an early epoch, the TPC is built directly into the Onslaught's hull and provides overwhelming frontal firepower.
+",,,,
+mudskipper_on_a_stick,WEAPON,"An attempt at replicating the efficiency of a TPC. An irreparably damaged Mudskipper Mk.II is used as a generator.
+
+The Storm Needler is a flechette weapon, which fires caseless small-bore ammunition. Having reached the practical limits of medium sized cooling systems, the designers of caseless weapons blazed a path into the large weapon category with the Storm Needler's advanced nano coolant recyclers, per-barrel magnetized rifling and automated operation. An intelligent autoloader unpacks and loads just the right amount of ammunition from the magazines, allowing for nonstop operation provided adequate flux capacity.
+
+The good range and speed of projectiles put a great strain on enemy shields, and can also be used effectively versus point defense threats.",,,,
+sarissa_on_a_stick,WEAPON,An attempt to weaponize the Canister Flak system. Utilizes an irreparably damaged Sarissa.,Defensive,Fires a large number of flak canisters with variable-timed proximity fuses all around the ship. Each canister deals 200 High Explosive damage in an area and is targeted to avoid friendly fire.,200 High Explosive,
+gigastick,WEAPON,"One of the many attempts at extending the range of the large-scale AM projector. Out of all modifications, this prototype managed to extend the range by a staggering 250 su. After reporting this breakthrough to the Executor, the head engineer of Ultradyne Askonia Combine board mysteriously disappeared.",,,,
+retruibution_on_a_stick,WEAPON,"An Orion device assembly from an irreparably damaged Retribution. The shaped antimatter charge is devastating in close quarters, able to push all ships within range.",,,,

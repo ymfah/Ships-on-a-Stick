@@ -1,0 +1,51 @@
+{
+  "id": "onslaught_on_a_stick",
+  "specClass": "projectile",
+  "projectileSpecId": "tpc_shot",
+  "type": "ENERGY",
+  "size": "LARGE",
+  "mountTypeOverride":"UNIVERSAL",
+  "turretSprite": "graphics/weapons/ymfah_onslaught_on_a_stick_turret.png",
+  "turretGlowSprite": "graphics/weapons/ymfah_onslaught_on_a_stick_turret_glow.png",
+  "hardpointSprite": "graphics/weapons/ymfah_onslaught_on_a_stick.png",
+  "hardpointGlowSprite": "graphics/weapons/ymfah_onslaught_on_a_stick_glow.png",
+  "glowColor": [
+    255,
+    100,
+    100,
+    255
+  ],
+  "turretOffsets": [
+    233,
+    27
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    237.5,
+    27
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "LINKED",
+  "animationType": "GLOW_AND_FLASH",
+  "everyFrameEffect":"data.weapons.RepairEveryframe",
+  "autocharge": true,
+  "muzzleFlashSpec": {
+    "length": 30,
+    "spread": 5,
+    "particleSizeMin": 15,
+    "particleSizeRange": 20,
+    "particleDuration": 0.12,
+    "particleCount": 10,
+    "particleColor": [
+      255,
+      100,
+      100,
+      255
+    ]
+  },
+  "fireSoundTwo": "thermal_pulse_cannon_fire"
+}

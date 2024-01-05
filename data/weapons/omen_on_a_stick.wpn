@@ -1,0 +1,24 @@
+{
+	"id": "omen_on_a_stick",
+	"specClass": "beam",
+	"type":"ENERGY",
+	"size": "LARGE",
+
+	"turretSprite":"graphics/weapons/ymfah_omen_large_hardpoint_base.png",
+	"hardpointSprite":"graphics/weapons/ymfah_omen_large_hardpoint_base.png",
+
+	"everyFrameEffect": "data.weapons.OmenOnAStickEveryframe",
+
+	"turretOffsets":[0, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[0, 0],
+	"hardpointAngleOffsets":[0],
+	  
+	"width":0.0,
+	"hitGlowRadius":0,
+	"textureType":LASER,
+	"textureScrollSpeed":260.0,
+	"pixelsPerTexel":5.0,
+	"pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER,MISSILE_FF,MISSILE_NO_FF],
+  
+}

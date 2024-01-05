@@ -1,0 +1,44 @@
+{
+  "id": "sarissa_on_a_stick",
+  "specClass": "projectile",
+  "projectileSpecId": "canister_flak_proj",
+  "type": "UNIVERSAL",
+  "size": "SMALL",
+  "turretSprite": "graphics/weapons/ymfah_sarissa_on_a_stick_turret.png",
+  "hardpointSprite": "graphics/weapons/ymfah_sarissa_on_a_stick.png",
+  "turretOffsets": [
+    366,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    304,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "everyFrameEffect":"data.weapons.RepairEveryframe",
+  "barrelMode": "ALTERNATING",
+  "animationType": "SMOKE",
+  "smokeSpec": {
+    "particleSizeMin": 10,
+    "particleSizeRange": 10,
+    "cloudParticleCount": 3,
+    "cloudDuration": 1,
+    "cloudRadius": 10,
+    "blowbackParticleCount": 0,
+    "blowbackDuration": 2,
+    "blowbackLength": 30,
+    "blowbackSpread": 10,
+    "particleColor": [
+      100,
+      100,
+      100,
+      150
+    ]
+  },
+  "fireSoundTwo": "system_canister_flak_fire"
+}

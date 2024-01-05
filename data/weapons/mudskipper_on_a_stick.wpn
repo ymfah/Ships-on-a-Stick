@@ -1,0 +1,44 @@
+{
+  "id": "mudskipper_on_a_stick",
+  "specClass": "projectile",
+  "projectileSpecId": "multineedler_shot",
+  "type": "UNIVERSAL",
+  "size": "LARGE",
+  "turretSprite": "graphics/weapons/rotary/mudskipper_on_a_stick_turret_base00.png",
+  "hardpointSprite": "graphics/weapons/rotary/mudskipper_on_a_stick_base00.png",
+  "visualRecoil": 2,
+  "turretOffsets": [
+    66.5,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    67.5,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "MUZZLE_FLASH",
+  "numFrames": 4,
+  "frameRate": 30,
+  "interruptibleBurst": true,
+  "muzzleFlashSpec": {
+    "length": 40,
+    "spread": 10,
+    "particleSizeMin": 7,
+    "particleSizeRange": 7,
+    "particleDuration": 0.2,
+    "particleCount": 12,
+    "particleColor": [
+      255,
+      255,
+      255,
+      175
+    ]
+  },
+  "fireSoundTwo": "needler_fire"
+}
