@@ -3,7 +3,7 @@
 	"name":"Ships on a Stick", # Displayed to the player
 	"author":"ymfah",
     "utility":"false",
-	"version":"0.1.0",
+	"version":"0.2.0",
 	"description":"Ships mounted on a stick!",
     "gameVersion": "0.96a-RC10", 
   	"jars":["jars/ShipsOnAStick.jar"],
