@@ -1,0 +1,44 @@
+{
+	"id": "light_stick",
+	"specClass": "beam",
+	"type":"ENERGY",
+	"size": "SMALL",
+	"everyFrameEffect": "data.weapons.light_stick",
+	"collisionClass": "RAY",
+	"collisionClassByFighter": "RAY_FIGHTER",
+
+	"turretSprite":"graphics/weapons/armaa_alesteRightArm_blade.png",
+	"hardpointSprite":"graphics/weapons/armaa_alesteRightArm_blade.png",
+
+	"turretOffsets":[0, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[0, 0],
+	"hardpointAngleOffsets":[0],
+	
+	"fringeColor": [
+    55,
+    100,
+    255,
+    255
+  ],
+  "coreColor": [
+    100,
+    200,
+    255,
+    255
+  ],
+  "glowColor": [
+    255,
+    0,
+    255,
+    255
+  ],
+	  
+	"width":25.0,
+	"hitGlowRadius":10,
+	"textureType":ROUGH,
+	"textureScrollSpeed":300.0,
+	"pixelsPerTexel":3.0,	
+	"pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER,MISSILE_FF,MISSILE_NO_FF],
+  
+}

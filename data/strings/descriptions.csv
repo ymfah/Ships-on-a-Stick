@@ -18,6 +18,10 @@ onslaught_on_a_stick,WEAPON,"Since the TPC is built directly into the Onslaught'
 
 A bulky energy weapon from an early epoch, the TPC is built directly into the Onslaught's hull and provides overwhelming frontal firepower.
 ",,,,
+onslaught_on_a_stick_left,WEAPON,"Since the TPC is built directly into the Onslaught's hull, a small part of the hull is used.
+
+A bulky energy weapon from an early epoch, the TPC is built directly into the Onslaught's hull and provides overwhelming frontal firepower.
+",,,,
 mudskipper_on_a_stick,WEAPON,"An attempt at replicating the efficiency of a TPC. An irreparably damaged Mudskipper Mk.II is used as a generator.
 
 The Storm Needler is a flechette weapon, which fires caseless small-bore ammunition. Having reached the practical limits of medium sized cooling systems, the designers of caseless weapons blazed a path into the large weapon category with the Storm Needler's advanced nano coolant recyclers, per-barrel magnetized rifling and automated operation. An intelligent autoloader unpacks and loads just the right amount of ammunition from the magazines, allowing for nonstop operation provided adequate flux capacity.
@@ -26,3 +30,8 @@ The good range and speed of projectiles put a great strain on enemy shields, and
 sarissa_on_a_stick,WEAPON,An attempt to weaponize the Canister Flak system. Utilizes an irreparably damaged Sarissa.,Defensive,Fires a large number of flak canisters with variable-timed proximity fuses all around the ship. Each canister deals 200 High Explosive damage in an area and is targeted to avoid friendly fire.,200 High Explosive,
 gigastick,WEAPON,"One of the many attempts at extending the range of the large-scale AM projector. Out of all modifications, this prototype managed to extend the range by a staggering 250 su. After reporting this breakthrough to the Executor, the head engineer of Ultradyne Askonia Combine board mysteriously disappeared.",,,,
 retruibution_on_a_stick,WEAPON,"An Orion device assembly from an irreparably damaged Retribution. The shaped antimatter charge is devastating in close quarters, able to push all ships within range.",,,,
+tactical_stick,WEAPON,"It is said that this pristine stick is constructed out of the same materials that form the now dormant gates. Its construction is nearly indestructible, yet lightweight. It cannot be disabled by electronic warfare. An epoch of Domain era materials technology and the last bastion of hope for humanity.",,,,
+googly_small,WEAPON,"A white hull plate backing covered by a viewport shell, and containing a black disc. The combination of a black circle over a white disk mimics the appearance of the eye's pupil and sclera.",,,,
+ox_on_a_stick,WEAPON,An irreparably damaged Ox. The drive field stabilizer has been repurposed to override a targets drive field and synchronize it with the host ship. A favorite tool for pirates looking to capture enemy vessels.,,,,
+landing_platform_frigate,WEAPON,"A landing platform capable of integrating a nearby frigate-class vessel. The frigate acts as an extension of the ship, benefiting from the host ships range bonus, combat readiness, and shares flux.",,,,
+landing_platform_fighter_medium,WEAPON,"A landing platform capable of integrating a nearby fighter wing. The fighter acts as an extension of the ship, benefiting from the host ships range bonus, combat readiness, and shares flux.",,,,

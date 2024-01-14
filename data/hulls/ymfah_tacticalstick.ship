@@ -1,0 +1,22 @@
+{
+  "hullName": "Tactical Stick",
+  "hullId": "ymfah_tacticalstick",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/weapons/ymfah_tactical_stick.png",
+  "style": "LOW_TECH",
+  "height": 1000,
+  "width": 20,
+  "center": [10, 500],
+  "collisionRadius": 500,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 0,
+  "viewOffset": 0,
+  "weaponSlots": [],
+  "engineSlots": [],
+  "bounds": [
+    500, 6,
+    -350, 6,
+    -350, -6,
+    500, -6
+  ]
+}

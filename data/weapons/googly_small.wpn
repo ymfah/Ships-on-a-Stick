@@ -1,0 +1,32 @@
+{
+	"id": "googly_small",
+	"specClass": "beam",
+	"type":"UNIVERSAL",
+	"size": "SMALL",
+
+	"turretSprite":"graphics/weapons/eyes/googly_small_00.png",
+	"hardpointSprite":"graphics/weapons/eyes/googly_small_00.png",
+
+	"everyFrameEffect": "data.weapons.GooglySmallEveryframe",
+	
+	"numFrames":22,
+	"frameRate":0,
+	"alwaysAnimate":"false",
+
+	"turretOffsets":[0, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[0, 0],
+	"hardpointAngleOffsets":[0],
+	
+	"fringeColor":[255,255,255,255],
+	"coreColor":[255,255,255,255],
+	"glowColor":[255,255,255,255],
+	  
+	"width":0.0,
+	"hitGlowRadius":0,
+	"textureType":ROUGH,
+	"textureScrollSpeed":1.0,
+	"pixelsPerTexel":5.0,	
+	"pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER,MISSILE_FF,MISSILE_NO_FF],
+  
+}
